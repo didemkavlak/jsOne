@@ -4,10 +4,6 @@ textName = document.querySelector("#myName")
 textName.innerHTML = `${cName}`
 
 
-
-
-
-
 function checkTime(i) {
     if (i < 10) {
       i = "0" + i;
